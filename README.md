@@ -1,5 +1,5 @@
 # Overview
-This project is a responsive landing page "The MET", offering a seamless experience across various devices including mobile, tablet, and desktop. Built with HTML, SCSS, and following the BEM (Block Element Modifier) methodology.
+This project is a responsive landing page "Bose", offering a seamless experience across various devices including mobile, tablet, and desktop. Built with HTML, SCSS, and following the BEM (Block Element Modifier) methodology.
 # Features
 - Responsive Design: The landing page is optimized for different screen sizes, ensuring a consistent and user-friendly experience across devices.
 - HTML & SCSS: The project is built using HTML for structure and SCSS for styling, allowing for maintainability and scalability.
