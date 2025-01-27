@@ -7,6 +7,11 @@ This project is a responsive landing page "Bose", offering a seamless experience
 - Cross-Browser Compatibility: The landing page is tested and compatible with major web browsers to ensure broad accessibility.
 - Accessible: Accessibility features have been incorporated to ensure the website is usable by individuals with disabilities.
 - Performance Optimized: Efforts have been made to optimize performance, ensuring fast loading times and a smooth browsing experience.
+# How to Run the Page Locally
+Clone the repository to your local machine using the command git clone https://github.com/kostiukmkalne/layout_landing-page/
+Then, navigate to the project directory using cd bose-landing.
+Make sure you have Node.js and npm installed, and install the project dependencies by running npm install.
+After the dependencies are installed, start the development server with npm start.
 # Design
 [Bose Design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6703-88&t=L7eKz5YKLN0m5WxR-0)
 # Deploy
